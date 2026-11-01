@@ -2,7 +2,7 @@
 # "5 Nuclear Mistakes That Almost Changed History"
 
 Format: 16:9 landscape · Target length: ~11 min · ~1,600 words · Voice: Brian (vidIQ)
-Status: DRAFT v1 (waiting for approval)
+Status: APPROVED v2 (mid-video CTA added after File 2)
 
 ---
 
@@ -78,7 +78,20 @@ He dies nine days later.
 
 After that, the scientists gave the core a new name. The Demon Core.
 
-And twelve years later, the US didn't just lose control of a core. It lost an entire bomb.
+> [VISUAL: Demon Core sphere glowing, freeze-frame]
+
+## MID-VIDEO CTA
+Quick pause.
+
+If you're enjoying these files, hit subscribe. Most people watching this haven't subscribed yet. It takes one second, it's free, and it helps this channel more than you know.
+
+And tell me in the comments: would you have stayed in that room with Slotin?
+
+Now… the next file is still out there. Literally.
+
+> [VISUAL: folder half-open, "SUBSCRIBE" stamp hits the folder, subscribe button + bell animation, comment-bubble icon on the question line; return to map on "still out there"]
+
+And twelve years after the Demon Core, the US didn't just lose control of a core. It lost an entire bomb.
 
 > [VISUAL: map → New Mexico, sphere diagram with reflector halves closing, screwdriver gap animation, blue flash, two date cards "AUG 21, 1945" / "MAY 21, 1946"]
 

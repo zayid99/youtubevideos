@@ -49,3 +49,9 @@ These are 5 nuclear mistakes that almost changed history, plus one so strange it
 **End screen:** the last 10 seconds (9:50–10:00) have two video slots + a subscribe circle drawn in. Add them in YouTube Studio → End screen.
 
 **Thumbnail idea:** dark map of the USA, a bomb hanging from a parachute in the center, a big red switch labeled "SAFE", text: "1 SWITCH." (2–3 words max)
+
+## Games
+
+| Game | What it is | Play |
+|------|------------|------|
+| Abduct & Conquer | 3D browser game: play a gray alien, abduct humans and cows, build an army, invade Earth | [games/abduct-and-conquer](games/abduct-and-conquer/) (open `index.html`) |
